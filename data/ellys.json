@@ -1,0 +1,311 @@
+{
+ "slug": "ellys",
+ "business": "Elly's Spaw & Boutique",
+ "keyword": "dog groomer",
+ "span": "3 miles",
+ "lat": 32.8078921,
+ "lng": -116.9548017,
+ "date": "24 Oct 2026",
+ "points": [
+  {
+   "r": 0,
+   "c": 0,
+   "lat": 32.829631,
+   "lng": -116.980666,
+   "rank": "X",
+   "top": [
+    "Bostone's Doggy Shop",
+    "Petco Grooming",
+    "Essential Grooming & Wellness"
+   ]
+  },
+  {
+   "r": 0,
+   "c": 1,
+   "lat": 32.829631,
+   "lng": -116.967734,
+   "rank": "X",
+   "top": [
+    "Very Important Pet (VIP) Grooming Salon & Boutique",
+    "Sharp Dressed Pets Grooming",
+    "Clips and Treats"
+   ]
+  },
+  {
+   "r": 0,
+   "c": 2,
+   "lat": 32.829631,
+   "lng": -116.954802,
+   "rank": "X",
+   "top": [
+    "Sharp Dressed Pets Grooming",
+    "Very Important Pet (VIP) Grooming Salon & Boutique",
+    "Canine Clips Dog Grooming"
+   ]
+  },
+  {
+   "r": 0,
+   "c": 3,
+   "lat": 32.829631,
+   "lng": -116.941869,
+   "rank": "19",
+   "top": [
+    "Cat & Doggie Works",
+    "Canine Clips Dog Grooming",
+    "Sharp Dressed Pets Grooming"
+   ]
+  },
+  {
+   "r": 0,
+   "c": 4,
+   "lat": 32.829631,
+   "lng": -116.928937,
+   "rank": "18",
+   "top": [
+    "Very Important Pet (VIP) Grooming Salon & Boutique",
+    "Paws Place Grooming",
+    "Parkside Groomery"
+   ]
+  },
+  {
+   "r": 1,
+   "c": 0,
+   "lat": 32.818762,
+   "lng": -116.980666,
+   "rank": "X",
+   "top": [
+    "Sharp Dressed Pets Grooming",
+    "Suds N Paws",
+    "Bostone's Doggy Shop"
+   ]
+  },
+  {
+   "r": 1,
+   "c": 1,
+   "lat": 32.818762,
+   "lng": -116.967734,
+   "rank": "19",
+   "top": [
+    "Sharp Dressed Pets Grooming",
+    "Clips and Treats",
+    "Canine Clips Dog Grooming"
+   ]
+  },
+  {
+   "r": 1,
+   "c": 2,
+   "lat": 32.818762,
+   "lng": -116.954802,
+   "rank": "12",
+   "top": [
+    "Clips and Treats",
+    "Sharp Dressed Pets Grooming",
+    "Canine Clips Dog Grooming"
+   ]
+  },
+  {
+   "r": 1,
+   "c": 3,
+   "lat": 32.818762,
+   "lng": -116.941869,
+   "rank": "17",
+   "top": [
+    "Cat & Doggie Works",
+    "El Cajon Dog Wash and Grooming Salon",
+    "Canine Clips Dog Grooming"
+   ]
+  },
+  {
+   "r": 1,
+   "c": 4,
+   "lat": 32.818762,
+   "lng": -116.928937,
+   "rank": "18",
+   "top": [
+    "Cat & Doggie Works",
+    "El Cajon Dog Wash and Grooming Salon",
+    "Tender Loving Care Pet Salon"
+   ]
+  },
+  {
+   "r": 2,
+   "c": 0,
+   "lat": 32.807892,
+   "lng": -116.980666,
+   "rank": "X",
+   "top": [
+    "Suds N Paws",
+    "Sharp Dressed Pets Grooming",
+    "Canine Clips Dog Grooming"
+   ]
+  },
+  {
+   "r": 2,
+   "c": 1,
+   "lat": 32.807892,
+   "lng": -116.967734,
+   "rank": "7",
+   "top": [
+    "PetSmart",
+    "Petco Grooming",
+    "Sharp Dressed Pets Grooming"
+   ]
+  },
+  {
+   "r": 2,
+   "c": 2,
+   "lat": 32.807892,
+   "lng": -116.954802,
+   "rank": "1",
+   "top": [
+    "Elly\u2019s Spaw & Boutique",
+    "Pooch Bar",
+    "Canine Clips Dog Grooming"
+   ]
+  },
+  {
+   "r": 2,
+   "c": 3,
+   "lat": 32.807892,
+   "lng": -116.941869,
+   "rank": "15",
+   "top": [
+    "El Cajon Dog Wash and Grooming Salon",
+    "Beth's Pet Spa",
+    "Auntie Molly's Grooming"
+   ]
+  },
+  {
+   "r": 2,
+   "c": 4,
+   "lat": 32.807892,
+   "lng": -116.928937,
+   "rank": "18",
+   "top": [
+    "Urban Pet Spaw",
+    "Happy Paws Grooming Nanairo, Inc.",
+    "Very Important Pet (VIP) Grooming Salon & Boutique"
+   ]
+  },
+  {
+   "r": 3,
+   "c": 0,
+   "lat": 32.797023,
+   "lng": -116.980666,
+   "rank": "20",
+   "top": [
+    "Suds N Paws",
+    "Sharp Dressed Pets Grooming",
+    "Fritzy's Pet Care Pros"
+   ]
+  },
+  {
+   "r": 3,
+   "c": 1,
+   "lat": 32.797023,
+   "lng": -116.967734,
+   "rank": "16",
+   "top": [
+    "Suds N Paws",
+    "Sharp Dressed Pets Grooming",
+    "Zoofilist"
+   ]
+  },
+  {
+   "r": 3,
+   "c": 2,
+   "lat": 32.797023,
+   "lng": -116.954802,
+   "rank": "13",
+   "top": [
+    "Pooch Bar",
+    "El Cajon Dog Wash and Grooming Salon",
+    "Happy Paws Grooming Nanairo, Inc."
+   ]
+  },
+  {
+   "r": 3,
+   "c": 3,
+   "lat": 32.797023,
+   "lng": -116.941869,
+   "rank": "12",
+   "top": [
+    "El Cajon Dog Wash and Grooming Salon",
+    "Pooch Bar",
+    "Happy Paws Grooming Nanairo, Inc."
+   ]
+  },
+  {
+   "r": 3,
+   "c": 4,
+   "lat": 32.797023,
+   "lng": -116.928937,
+   "rank": "16",
+   "top": [
+    "Happy Paws Grooming Nanairo, Inc.",
+    "Tender Loving Care Pet Salon",
+    "Urban Pet Spaw"
+   ]
+  },
+  {
+   "r": 4,
+   "c": 0,
+   "lat": 32.786153,
+   "lng": -116.980666,
+   "rank": "19",
+   "top": [
+    "Fritzy's Pet Care Pros",
+    "Suds N Paws",
+    "Village Pet Salon"
+   ]
+  },
+  {
+   "r": 4,
+   "c": 1,
+   "lat": 32.786153,
+   "lng": -116.967734,
+   "rank": "15",
+   "top": [
+    "Urban Pet Spaw",
+    "Happy Paws Grooming Nanairo, Inc.",
+    "Suds N Paws"
+   ]
+  },
+  {
+   "r": 4,
+   "c": 2,
+   "lat": 32.786153,
+   "lng": -116.954802,
+   "rank": "15",
+   "top": [
+    "Happy Paws Grooming Nanairo, Inc.",
+    "El Cajon Dog Wash and Grooming Salon",
+    "Urban Pet Spaw"
+   ]
+  },
+  {
+   "r": 4,
+   "c": 3,
+   "lat": 32.786153,
+   "lng": -116.941869,
+   "rank": "14",
+   "top": [
+    "Happy Paws Grooming Nanairo, Inc.",
+    "Urban Pet Spaw",
+    "El Cajon Dog Wash and Grooming Salon"
+   ]
+  },
+  {
+   "r": 4,
+   "c": 4,
+   "lat": 32.786153,
+   "lng": -116.928937,
+   "rank": "13",
+   "top": [
+    "Happy Paws Grooming Nanairo, Inc.",
+    "Urban Pet Spaw",
+    "El Cajon Dog Wash and Grooming Salon"
+   ]
+  }
+ ]
+}

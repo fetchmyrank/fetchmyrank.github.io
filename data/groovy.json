@@ -1,0 +1,261 @@
+{
+ "slug": "groovy",
+ "business": "Groovy Grooms",
+ "keyword": "dog groomer",
+ "span": "3 miles",
+ "lat": 33.1777946,
+ "lng": -117.3647002,
+ "date": "24 Oct 2026",
+ "points": [
+  {
+   "r": 0,
+   "c": 0,
+   "lat": 33.199534,
+   "lng": -117.390674,
+   "rank": "3",
+   "top": [
+    "Tails A Waggin"
+   ]
+  },
+  {
+   "r": 0,
+   "c": 1,
+   "lat": 33.199534,
+   "lng": -117.377687,
+   "rank": "3",
+   "top": [
+    "Tails A Waggin"
+   ]
+  },
+  {
+   "r": 0,
+   "c": 2,
+   "lat": 33.199534,
+   "lng": -117.3647,
+   "rank": "5",
+   "top": [
+    "Tails A Waggin"
+   ]
+  },
+  {
+   "r": 0,
+   "c": 3,
+   "lat": 33.199534,
+   "lng": -117.351713,
+   "rank": "6",
+   "top": [
+    "Surfside Animal Hospital"
+   ]
+  },
+  {
+   "r": 0,
+   "c": 4,
+   "lat": 33.199534,
+   "lng": -117.338727,
+   "rank": "9",
+   "top": [
+    "Dippity-Dog Self Serve Pet"
+   ]
+  },
+  {
+   "r": 1,
+   "c": 0,
+   "lat": 33.188664,
+   "lng": -117.390674,
+   "rank": "2",
+   "top": [
+    "Tails A Waggin"
+   ]
+  },
+  {
+   "r": 1,
+   "c": 1,
+   "lat": 33.188664,
+   "lng": -117.377687,
+   "rank": "3",
+   "top": [
+    "Tails A Waggin"
+   ]
+  },
+  {
+   "r": 1,
+   "c": 2,
+   "lat": 33.188664,
+   "lng": -117.3647,
+   "rank": "3",
+   "top": [
+    "Tails A Waggin"
+   ]
+  },
+  {
+   "r": 1,
+   "c": 3,
+   "lat": 33.188664,
+   "lng": -117.351713,
+   "rank": "3",
+   "top": [
+    "Dippity-Dog Self Serve Pet"
+   ]
+  },
+  {
+   "r": 1,
+   "c": 4,
+   "lat": 33.188664,
+   "lng": -117.338727,
+   "rank": "5",
+   "top": [
+    "Dippity-Dog Self Serve Pet"
+   ]
+  },
+  {
+   "r": 2,
+   "c": 0,
+   "lat": 33.177795,
+   "lng": -117.390674,
+   "rank": "1",
+   "top": [
+    "Groovy Grooms"
+   ]
+  },
+  {
+   "r": 2,
+   "c": 1,
+   "lat": 33.177795,
+   "lng": -117.377687,
+   "rank": "1",
+   "top": [
+    "Groovy Grooms"
+   ]
+  },
+  {
+   "r": 2,
+   "c": 2,
+   "lat": 33.177795,
+   "lng": -117.3647,
+   "rank": "1",
+   "top": [
+    "Groovy Grooms"
+   ]
+  },
+  {
+   "r": 2,
+   "c": 3,
+   "lat": 33.177795,
+   "lng": -117.351713,
+   "rank": "1",
+   "top": [
+    "Groovy Grooms"
+   ]
+  },
+  {
+   "r": 2,
+   "c": 4,
+   "lat": 33.177795,
+   "lng": -117.338727,
+   "rank": "6",
+   "top": [
+    "Muddy Paws"
+   ]
+  },
+  {
+   "r": 3,
+   "c": 0,
+   "lat": 33.166925,
+   "lng": -117.390674,
+   "rank": "1",
+   "top": [
+    "Groovy Grooms"
+   ]
+  },
+  {
+   "r": 3,
+   "c": 1,
+   "lat": 33.166925,
+   "lng": -117.377687,
+   "rank": "4",
+   "top": [
+    "Tails A Waggin"
+   ]
+  },
+  {
+   "r": 3,
+   "c": 2,
+   "lat": 33.166925,
+   "lng": -117.3647,
+   "rank": "2",
+   "top": [
+    "Precious Bark Grooming"
+   ]
+  },
+  {
+   "r": 3,
+   "c": 3,
+   "lat": 33.166925,
+   "lng": -117.351713,
+   "rank": "4",
+   "top": [
+    "Precious Bark Grooming"
+   ]
+  },
+  {
+   "r": 3,
+   "c": 4,
+   "lat": 33.166925,
+   "lng": -117.338727,
+   "rank": "5",
+   "top": [
+    "Precious Bark Grooming"
+   ]
+  },
+  {
+   "r": 4,
+   "c": 0,
+   "lat": 33.156055,
+   "lng": -117.390674,
+   "rank": "1",
+   "top": [
+    "Groovy Grooms"
+   ]
+  },
+  {
+   "r": 4,
+   "c": 1,
+   "lat": 33.156055,
+   "lng": -117.377687,
+   "rank": "4",
+   "top": [
+    "Precious Bark Grooming"
+   ]
+  },
+  {
+   "r": 4,
+   "c": 2,
+   "lat": 33.156055,
+   "lng": -117.3647,
+   "rank": "3",
+   "top": [
+    "Precious Bark Grooming"
+   ]
+  },
+  {
+   "r": 4,
+   "c": 3,
+   "lat": 33.156055,
+   "lng": -117.351713,
+   "rank": "5",
+   "top": [
+    "Salty Dog Boutique and Groomery"
+   ]
+  },
+  {
+   "r": 4,
+   "c": 4,
+   "lat": 33.156055,
+   "lng": -117.338727,
+   "rank": "6",
+   "top": [
+    "Precious Bark Grooming"
+   ]
+  }
+ ]
+}

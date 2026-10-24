@@ -1,0 +1,261 @@
+{
+ "slug": "alanimal",
+ "business": "A L Animal Care",
+ "keyword": "dog groomer",
+ "span": "3 miles",
+ "lat": 32.9537639,
+ "lng": -117.0238159,
+ "date": "24 Oct 2026",
+ "points": [
+  {
+   "r": 0,
+   "c": 0,
+   "lat": 32.975503,
+   "lng": -117.049723,
+   "rank": "9",
+   "top": [
+    "The Bark & Collar"
+   ]
+  },
+  {
+   "r": 0,
+   "c": 1,
+   "lat": 32.975503,
+   "lng": -117.03677,
+   "rank": "7",
+   "top": [
+    "The Bark & Collar"
+   ]
+  },
+  {
+   "r": 0,
+   "c": 2,
+   "lat": 32.975503,
+   "lng": -117.023816,
+   "rank": "5",
+   "top": [
+    "The Bark & Collar"
+   ]
+  },
+  {
+   "r": 0,
+   "c": 3,
+   "lat": 32.975503,
+   "lng": -117.010862,
+   "rank": "5",
+   "top": [
+    "The Bark & Collar"
+   ]
+  },
+  {
+   "r": 0,
+   "c": 4,
+   "lat": 32.975503,
+   "lng": -116.997909,
+   "rank": "4",
+   "top": [
+    "All Paws Pet Grooming"
+   ]
+  },
+  {
+   "r": 1,
+   "c": 0,
+   "lat": 32.964633,
+   "lng": -117.049723,
+   "rank": "10",
+   "top": [
+    "The Bark & Collar"
+   ]
+  },
+  {
+   "r": 1,
+   "c": 1,
+   "lat": 32.964633,
+   "lng": -117.03677,
+   "rank": "6",
+   "top": [
+    "The Bark & Collar"
+   ]
+  },
+  {
+   "r": 1,
+   "c": 2,
+   "lat": 32.964633,
+   "lng": -117.023816,
+   "rank": "4",
+   "top": [
+    "All Paws Pet Grooming"
+   ]
+  },
+  {
+   "r": 1,
+   "c": 3,
+   "lat": 32.964633,
+   "lng": -117.010862,
+   "rank": "4",
+   "top": [
+    "All Paws Pet Grooming"
+   ]
+  },
+  {
+   "r": 1,
+   "c": 4,
+   "lat": 32.964633,
+   "lng": -116.997909,
+   "rank": "3",
+   "top": [
+    "All Paws Pet Grooming"
+   ]
+  },
+  {
+   "r": 2,
+   "c": 0,
+   "lat": 32.953764,
+   "lng": -117.049723,
+   "rank": "11",
+   "top": [
+    "Dapper Doggery"
+   ]
+  },
+  {
+   "r": 2,
+   "c": 1,
+   "lat": 32.953764,
+   "lng": -117.03677,
+   "rank": "6",
+   "top": [
+    "All Paws Pet Grooming"
+   ]
+  },
+  {
+   "r": 2,
+   "c": 2,
+   "lat": 32.953764,
+   "lng": -117.023816,
+   "rank": "4",
+   "top": [
+    "The Bark & Collar"
+   ]
+  },
+  {
+   "r": 2,
+   "c": 3,
+   "lat": 32.953764,
+   "lng": -117.010862,
+   "rank": "3",
+   "top": [
+    "Beauty and the Beast Pet Grooming"
+   ]
+  },
+  {
+   "r": 2,
+   "c": 4,
+   "lat": 32.953764,
+   "lng": -116.997909,
+   "rank": "3",
+   "top": [
+    "All Paws Pet Grooming"
+   ]
+  },
+  {
+   "r": 3,
+   "c": 0,
+   "lat": 32.942894,
+   "lng": -117.049723,
+   "rank": "6",
+   "top": [
+    "The Bark & Collar"
+   ]
+  },
+  {
+   "r": 3,
+   "c": 1,
+   "lat": 32.942894,
+   "lng": -117.03677,
+   "rank": "7",
+   "top": [
+    "All Paws Pet Grooming"
+   ]
+  },
+  {
+   "r": 3,
+   "c": 2,
+   "lat": 32.942894,
+   "lng": -117.023816,
+   "rank": "3",
+   "top": [
+    "All Paws Pet Grooming"
+   ]
+  },
+  {
+   "r": 3,
+   "c": 3,
+   "lat": 32.942894,
+   "lng": -117.010862,
+   "rank": "4",
+   "top": [
+    "The Bark & Collar"
+   ]
+  },
+  {
+   "r": 3,
+   "c": 4,
+   "lat": 32.942894,
+   "lng": -116.997909,
+   "rank": "3",
+   "top": [
+    "All Paws Pet Grooming"
+   ]
+  },
+  {
+   "r": 4,
+   "c": 0,
+   "lat": 32.932025,
+   "lng": -117.049723,
+   "rank": "9",
+   "top": [
+    "Dapper Doggery"
+   ]
+  },
+  {
+   "r": 4,
+   "c": 1,
+   "lat": 32.932025,
+   "lng": -117.03677,
+   "rank": "5",
+   "top": [
+    "Dapper Doggery"
+   ]
+  },
+  {
+   "r": 4,
+   "c": 2,
+   "lat": 32.932025,
+   "lng": -117.023816,
+   "rank": "3",
+   "top": [
+    "All Paws Pet Grooming"
+   ]
+  },
+  {
+   "r": 4,
+   "c": 3,
+   "lat": 32.932025,
+   "lng": -117.010862,
+   "rank": "3",
+   "top": [
+    "All Paws Pet Grooming"
+   ]
+  },
+  {
+   "r": 4,
+   "c": 4,
+   "lat": 32.932025,
+   "lng": -116.997909,
+   "rank": "3",
+   "top": [
+    "All Paws Pet Grooming"
+   ]
+  }
+ ]
+}

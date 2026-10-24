@@ -1,0 +1,261 @@
+{
+ "slug": "serenity",
+ "business": "Serenity Pet Spaw",
+ "keyword": "dog groomer",
+ "span": "3 miles",
+ "lat": 32.8029896,
+ "lng": -117.2136206,
+ "date": "24 Oct 2026",
+ "points": [
+  {
+   "r": 0,
+   "c": 0,
+   "lat": 32.824729,
+   "lng": -117.239484,
+   "rank": "X",
+   "top": [
+    "YUPET Grooming"
+   ]
+  },
+  {
+   "r": 0,
+   "c": 1,
+   "lat": 32.824729,
+   "lng": -117.226552,
+   "rank": "14",
+   "top": [
+    "Le Pooche Pet Spa"
+   ]
+  },
+  {
+   "r": 0,
+   "c": 2,
+   "lat": 32.824729,
+   "lng": -117.213621,
+   "rank": "10",
+   "top": [
+    "Awesome Doggies Mobile Pet Grooming"
+   ]
+  },
+  {
+   "r": 0,
+   "c": 3,
+   "lat": 32.824729,
+   "lng": -117.200689,
+   "rank": "15",
+   "top": [
+    "Bark Bath Dog Wash"
+   ]
+  },
+  {
+   "r": 0,
+   "c": 4,
+   "lat": 32.824729,
+   "lng": -117.187757,
+   "rank": "15",
+   "top": [
+    "Paw Alley Pet Grooming"
+   ]
+  },
+  {
+   "r": 1,
+   "c": 0,
+   "lat": 32.813859,
+   "lng": -117.239484,
+   "rank": "19",
+   "top": [
+    "Rooney Groom - Mobile Dog Grooming"
+   ]
+  },
+  {
+   "r": 1,
+   "c": 1,
+   "lat": 32.813859,
+   "lng": -117.226552,
+   "rank": "10",
+   "top": [
+    "Rooney Groom - Mobile Dog Grooming"
+   ]
+  },
+  {
+   "r": 1,
+   "c": 2,
+   "lat": 32.813859,
+   "lng": -117.213621,
+   "rank": "9",
+   "top": [
+    "Rooney Groom - Mobile Dog Grooming"
+   ]
+  },
+  {
+   "r": 1,
+   "c": 3,
+   "lat": 32.813859,
+   "lng": -117.200689,
+   "rank": "9",
+   "top": [
+    "YUPET Grooming"
+   ]
+  },
+  {
+   "r": 1,
+   "c": 4,
+   "lat": 32.813859,
+   "lng": -117.187757,
+   "rank": "15",
+   "top": [
+    "Paw Alley Pet Grooming"
+   ]
+  },
+  {
+   "r": 2,
+   "c": 0,
+   "lat": 32.80299,
+   "lng": -117.239484,
+   "rank": "16",
+   "top": [
+    "Petco Grooming"
+   ]
+  },
+  {
+   "r": 2,
+   "c": 1,
+   "lat": 32.80299,
+   "lng": -117.226552,
+   "rank": "6",
+   "top": [
+    "Petco Grooming"
+   ]
+  },
+  {
+   "r": 2,
+   "c": 2,
+   "lat": 32.80299,
+   "lng": -117.213621,
+   "rank": "1",
+   "top": [
+    "Serenity Pet Spaw"
+   ]
+  },
+  {
+   "r": 2,
+   "c": 3,
+   "lat": 32.80299,
+   "lng": -117.200689,
+   "rank": "6",
+   "top": [
+    "YUPET Grooming"
+   ]
+  },
+  {
+   "r": 2,
+   "c": 4,
+   "lat": 32.80299,
+   "lng": -117.187757,
+   "rank": "15",
+   "top": [
+    "YUPET Grooming"
+   ]
+  },
+  {
+   "r": 3,
+   "c": 0,
+   "lat": 32.79212,
+   "lng": -117.239484,
+   "rank": "14",
+   "top": [
+    "Diego Dogs Grooming"
+   ]
+  },
+  {
+   "r": 3,
+   "c": 1,
+   "lat": 32.79212,
+   "lng": -117.226552,
+   "rank": "7",
+   "top": [
+    "Doggies Divine"
+   ]
+  },
+  {
+   "r": 3,
+   "c": 2,
+   "lat": 32.79212,
+   "lng": -117.213621,
+   "rank": "5",
+   "top": [
+    "Doggies Divine"
+   ]
+  },
+  {
+   "r": 3,
+   "c": 3,
+   "lat": 32.79212,
+   "lng": -117.200689,
+   "rank": "16",
+   "top": [
+    "Happy Pet"
+   ]
+  },
+  {
+   "r": 3,
+   "c": 4,
+   "lat": 32.79212,
+   "lng": -117.187757,
+   "rank": "12",
+   "top": [
+    "Wag Hotels - San Diego"
+   ]
+  },
+  {
+   "r": 4,
+   "c": 0,
+   "lat": 32.78125,
+   "lng": -117.239484,
+   "rank": "16",
+   "top": [
+    "Point Loma Dog Salon N Spa"
+   ]
+  },
+  {
+   "r": 4,
+   "c": 1,
+   "lat": 32.78125,
+   "lng": -117.226552,
+   "rank": "12",
+   "top": [
+    "Doggies Divine"
+   ]
+  },
+  {
+   "r": 4,
+   "c": 2,
+   "lat": 32.78125,
+   "lng": -117.213621,
+   "rank": "9",
+   "top": [
+    "DoggoWash"
+   ]
+  },
+  {
+   "r": 4,
+   "c": 3,
+   "lat": 32.78125,
+   "lng": -117.200689,
+   "rank": "15",
+   "top": [
+    "Dirty Dogs Mission Valley"
+   ]
+  },
+  {
+   "r": 4,
+   "c": 4,
+   "lat": 32.78125,
+   "lng": -117.187757,
+   "rank": "18",
+   "top": [
+    "Dunk'N Dogs"
+   ]
+  }
+ ]
+}

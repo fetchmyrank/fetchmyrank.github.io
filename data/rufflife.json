@@ -1,0 +1,311 @@
+{
+ "slug": "rufflife",
+ "business": "Ruff Life Mobile Pet Spaw",
+ "keyword": "mobile dog groomer",
+ "span": "6 miles",
+ "lat": 32.812944,
+ "lng": -117.1337008,
+ "date": "24 Oct 2026",
+ "points": [
+  {
+   "r": 0,
+   "c": 0,
+   "lat": 32.856422,
+   "lng": -117.185433,
+   "rank": "X",
+   "top": [
+    "Awesome Doggies Mobile Pet Grooming",
+    "Private Mobile Grooming",
+    "Sweet Pea Grooming Kearny Mesa"
+   ]
+  },
+  {
+   "r": 0,
+   "c": 1,
+   "lat": 32.856422,
+   "lng": -117.159567,
+   "rank": "6",
+   "top": [
+    "Sweet Pea Grooming Kearny Mesa",
+    "Dirty Paws Pet Wash",
+    "Canine Cleaners"
+   ]
+  },
+  {
+   "r": 0,
+   "c": 2,
+   "lat": 32.856422,
+   "lng": -117.133701,
+   "rank": "4",
+   "top": [
+    "Dirty Paws Pet Wash",
+    "Sweet Pea Grooming Kearny Mesa",
+    "Canine Cleaners"
+   ]
+  },
+  {
+   "r": 0,
+   "c": 3,
+   "lat": 32.856422,
+   "lng": -117.107835,
+   "rank": "4",
+   "top": [
+    "Dirty Paws Pet Wash",
+    "Canine Cleaners",
+    "Sweet Pea Grooming Kearny Mesa"
+   ]
+  },
+  {
+   "r": 0,
+   "c": 4,
+   "lat": 32.856422,
+   "lng": -117.081968,
+   "rank": "3",
+   "top": [
+    "Dirty Paws Pet Wash",
+    "Canine Cleaners",
+    "Ruff Life Mobile Pet Spaw"
+   ]
+  },
+  {
+   "r": 1,
+   "c": 0,
+   "lat": 32.834683,
+   "lng": -117.185433,
+   "rank": "X",
+   "top": [
+    "Awesome Doggies Mobile Pet Grooming",
+    "Rooney Groom - Mobile Dog Grooming",
+    "Paw Alley Pet Grooming"
+   ]
+  },
+  {
+   "r": 1,
+   "c": 1,
+   "lat": 32.834683,
+   "lng": -117.159567,
+   "rank": "10",
+   "top": [
+    "Sweet Pea Grooming Kearny Mesa",
+    "Canine Image Grooming",
+    "Paw Alley Pet Grooming"
+   ]
+  },
+  {
+   "r": 1,
+   "c": 2,
+   "lat": 32.834683,
+   "lng": -117.133701,
+   "rank": "8",
+   "top": [
+    "Sweet Pea Grooming Kearny Mesa",
+    "Dirty Paws Pet Wash",
+    "Canine Cleaners"
+   ]
+  },
+  {
+   "r": 1,
+   "c": 3,
+   "lat": 32.834683,
+   "lng": -117.107835,
+   "rank": "5",
+   "top": [
+    "Canine Cleaners",
+    "Dirty Paws Pet Wash",
+    "Sweet Pea Grooming Kearny Mesa"
+   ]
+  },
+  {
+   "r": 1,
+   "c": 4,
+   "lat": 32.834683,
+   "lng": -117.081968,
+   "rank": "4",
+   "top": [
+    "Dirty Paws Pet Wash",
+    "Canine Cleaners",
+    "Priscilla's Grooming"
+   ]
+  },
+  {
+   "r": 2,
+   "c": 0,
+   "lat": 32.812944,
+   "lng": -117.185433,
+   "rank": "X",
+   "top": [
+    "Rooney Groom - Mobile Dog Grooming",
+    "Awesome Doggies Mobile Pet Grooming",
+    "Sweet Pea Grooming Kearny Mesa"
+   ]
+  },
+  {
+   "r": 2,
+   "c": 1,
+   "lat": 32.812944,
+   "lng": -117.159567,
+   "rank": "13",
+   "top": [
+    "Canine Image Grooming",
+    "YUPET Grooming",
+    "Dunk'N Dogs"
+   ]
+  },
+  {
+   "r": 2,
+   "c": 2,
+   "lat": 32.812944,
+   "lng": -117.133701,
+   "rank": "11",
+   "top": [
+    "Disco Dogs Mobile Spa",
+    "Sweet Pea Grooming Kearny Mesa",
+    "Canine Image Grooming"
+   ]
+  },
+  {
+   "r": 2,
+   "c": 3,
+   "lat": 32.812944,
+   "lng": -117.107835,
+   "rank": "11",
+   "top": [
+    "Disco Dogs Mobile Spa",
+    "Dirty Paws Pet Wash",
+    "Canine Cleaners"
+   ]
+  },
+  {
+   "r": 2,
+   "c": 4,
+   "lat": 32.812944,
+   "lng": -117.081968,
+   "rank": "10",
+   "top": [
+    "Disco Dogs Mobile Spa",
+    "Dirty Paws Pet Wash",
+    "Suds N Pups Dog Grooming and Wash, Inc."
+   ]
+  },
+  {
+   "r": 3,
+   "c": 0,
+   "lat": 32.791205,
+   "lng": -117.185433,
+   "rank": "X",
+   "top": [
+    "YUPET Grooming",
+    "Raise The Wuff Mobile Dog Grooming",
+    "Dunk'N Dogs"
+   ]
+  },
+  {
+   "r": 3,
+   "c": 1,
+   "lat": 32.791205,
+   "lng": -117.159567,
+   "rank": "X",
+   "top": [
+    "Raise The Wuff Mobile Dog Grooming",
+    "YUPET Grooming",
+    "Dunk'N Dogs"
+   ]
+  },
+  {
+   "r": 3,
+   "c": 2,
+   "lat": 32.791205,
+   "lng": -117.133701,
+   "rank": "X",
+   "top": [
+    "Raise The Wuff Mobile Dog Grooming",
+    "Disco Dogs Mobile Spa",
+    "Top Dog Wash & Groom"
+   ]
+  },
+  {
+   "r": 3,
+   "c": 3,
+   "lat": 32.791205,
+   "lng": -117.107835,
+   "rank": "X",
+   "top": [
+    "Raise The Wuff Mobile Dog Grooming",
+    "Disco Dogs Mobile Spa",
+    "Suds N Pups Dog Grooming and Wash, Inc."
+   ]
+  },
+  {
+   "r": 3,
+   "c": 4,
+   "lat": 32.791205,
+   "lng": -117.081968,
+   "rank": "X",
+   "top": [
+    "Disco Dogs Mobile Spa",
+    "Suds N Pups Dog Grooming and Wash, Inc.",
+    "Local Dog, Mobile Pet Grooming"
+   ]
+  },
+  {
+   "r": 4,
+   "c": 0,
+   "lat": 32.769466,
+   "lng": -117.185433,
+   "rank": "X",
+   "top": [
+    "Raise The Wuff Mobile Dog Grooming",
+    "You Dirty Dog-Mobile Pet",
+    "Chic Paws Pet Grooming"
+   ]
+  },
+  {
+   "r": 4,
+   "c": 1,
+   "lat": 32.769466,
+   "lng": -117.159567,
+   "rank": "X",
+   "top": [
+    "Raise The Wuff Mobile Dog Grooming",
+    "The Little Dog Studio - Mobile Grooming",
+    "Chic Paws Pet Grooming"
+   ]
+  },
+  {
+   "r": 4,
+   "c": 2,
+   "lat": 32.769466,
+   "lng": -117.133701,
+   "rank": "X",
+   "top": [
+    "Raise The Wuff Mobile Dog Grooming",
+    "Chic Paws Pet Grooming",
+    "The Little Dog Studio - Mobile Grooming"
+   ]
+  },
+  {
+   "r": 4,
+   "c": 3,
+   "lat": 32.769466,
+   "lng": -117.107835,
+   "rank": "X",
+   "top": [
+    "Raise The Wuff Mobile Dog Grooming",
+    "Disco Dogs Mobile Spa",
+    "Chic Paws Pet Grooming"
+   ]
+  },
+  {
+   "r": 4,
+   "c": 4,
+   "lat": 32.769466,
+   "lng": -117.081968,
+   "rank": "X",
+   "top": [
+    "Disco Dogs Mobile Spa",
+    "Paws & Bows Pet Grooming",
+    "Pet Beloved"
+   ]
+  }
+ ]
+}

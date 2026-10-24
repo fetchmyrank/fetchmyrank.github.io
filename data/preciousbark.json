@@ -1,0 +1,261 @@
+{
+ "slug": "preciousbark",
+ "business": "Precious Bark Grooming",
+ "keyword": "dog groomer",
+ "span": "3 miles",
+ "lat": 33.1636636,
+ "lng": -117.3486732,
+ "date": "24 Oct 2026",
+ "points": [
+  {
+   "r": 0,
+   "c": 0,
+   "lat": 33.185403,
+   "lng": -117.374642,
+   "rank": "5",
+   "top": [
+    "Tails A Waggin"
+   ]
+  },
+  {
+   "r": 0,
+   "c": 1,
+   "lat": 33.185403,
+   "lng": -117.361658,
+   "rank": "6",
+   "top": [
+    "Petco"
+   ]
+  },
+  {
+   "r": 0,
+   "c": 2,
+   "lat": 33.185403,
+   "lng": -117.348673,
+   "rank": "7",
+   "top": [
+    "Petco Grooming"
+   ]
+  },
+  {
+   "r": 0,
+   "c": 3,
+   "lat": 33.185403,
+   "lng": -117.335689,
+   "rank": "5",
+   "top": [
+    "Dippity-Dog Self Serve Pet"
+   ]
+  },
+  {
+   "r": 0,
+   "c": 4,
+   "lat": 33.185403,
+   "lng": -117.322704,
+   "rank": "6",
+   "top": [
+    "Dippity-Dog Self Serve Pet"
+   ]
+  },
+  {
+   "r": 1,
+   "c": 0,
+   "lat": 33.174533,
+   "lng": -117.374642,
+   "rank": "7",
+   "top": [
+    "Groovy Grooms"
+   ]
+  },
+  {
+   "r": 1,
+   "c": 1,
+   "lat": 33.174533,
+   "lng": -117.361658,
+   "rank": "8",
+   "top": [
+    "Groovy Grooms"
+   ]
+  },
+  {
+   "r": 1,
+   "c": 2,
+   "lat": 33.174533,
+   "lng": -117.348673,
+   "rank": "1",
+   "top": [
+    "Precious Bark Grooming"
+   ]
+  },
+  {
+   "r": 1,
+   "c": 3,
+   "lat": 33.174533,
+   "lng": -117.335689,
+   "rank": "3",
+   "top": [
+    "Muddy Paws"
+   ]
+  },
+  {
+   "r": 1,
+   "c": 4,
+   "lat": 33.174533,
+   "lng": -117.322704,
+   "rank": "3",
+   "top": [
+    "Muddy Paws"
+   ]
+  },
+  {
+   "r": 2,
+   "c": 0,
+   "lat": 33.163664,
+   "lng": -117.374642,
+   "rank": "2",
+   "top": [
+    "Groovy Grooms"
+   ]
+  },
+  {
+   "r": 2,
+   "c": 1,
+   "lat": 33.163664,
+   "lng": -117.361658,
+   "rank": "1",
+   "top": [
+    "Precious Bark Grooming"
+   ]
+  },
+  {
+   "r": 2,
+   "c": 2,
+   "lat": 33.163664,
+   "lng": -117.348673,
+   "rank": "8",
+   "top": [
+    "Groovy Grooms"
+   ]
+  },
+  {
+   "r": 2,
+   "c": 3,
+   "lat": 33.163664,
+   "lng": -117.335689,
+   "rank": "7",
+   "top": [
+    "Groovy Grooms"
+   ]
+  },
+  {
+   "r": 2,
+   "c": 4,
+   "lat": 33.163664,
+   "lng": -117.322704,
+   "rank": "3",
+   "top": [
+    "Muddy Paws"
+   ]
+  },
+  {
+   "r": 3,
+   "c": 0,
+   "lat": 33.152794,
+   "lng": -117.374642,
+   "rank": "1",
+   "top": [
+    "Precious Bark Grooming"
+   ]
+  },
+  {
+   "r": 3,
+   "c": 1,
+   "lat": 33.152794,
+   "lng": -117.361658,
+   "rank": "1",
+   "top": [
+    "Precious Bark Grooming"
+   ]
+  },
+  {
+   "r": 3,
+   "c": 2,
+   "lat": 33.152794,
+   "lng": -117.348673,
+   "rank": "2",
+   "top": [
+    "Salty Dog Boutique and Groomery"
+   ]
+  },
+  {
+   "r": 3,
+   "c": 3,
+   "lat": 33.152794,
+   "lng": -117.335689,
+   "rank": "1",
+   "top": [
+    "Precious Bark Grooming"
+   ]
+  },
+  {
+   "r": 3,
+   "c": 4,
+   "lat": 33.152794,
+   "lng": -117.322704,
+   "rank": "2",
+   "top": [
+    "Muddy Paws"
+   ]
+  },
+  {
+   "r": 4,
+   "c": 0,
+   "lat": 33.141924,
+   "lng": -117.374642,
+   "rank": "1",
+   "top": [
+    "Precious Bark Grooming"
+   ]
+  },
+  {
+   "r": 4,
+   "c": 1,
+   "lat": 33.141924,
+   "lng": -117.361658,
+   "rank": "1",
+   "top": [
+    "Precious Bark Grooming"
+   ]
+  },
+  {
+   "r": 4,
+   "c": 2,
+   "lat": 33.141924,
+   "lng": -117.348673,
+   "rank": "2",
+   "top": [
+    "Salty Dog Boutique and Groomery"
+   ]
+  },
+  {
+   "r": 4,
+   "c": 3,
+   "lat": 33.141924,
+   "lng": -117.335689,
+   "rank": "1",
+   "top": [
+    "Precious Bark Grooming"
+   ]
+  },
+  {
+   "r": 4,
+   "c": 4,
+   "lat": 33.141924,
+   "lng": -117.322704,
+   "rank": "1",
+   "top": [
+    "Precious Bark Grooming"
+   ]
+  }
+ ]
+}

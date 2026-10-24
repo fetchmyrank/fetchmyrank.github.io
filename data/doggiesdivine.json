@@ -1,0 +1,261 @@
+{
+ "slug": "doggiesdivine",
+ "business": "Doggies Divine",
+ "keyword": "dog groomer",
+ "span": "3 miles",
+ "lat": 32.7892412,
+ "lng": -117.2054552,
+ "date": "24 Oct 2026",
+ "points": [
+  {
+   "r": 0,
+   "c": 0,
+   "lat": 32.81098,
+   "lng": -117.231315,
+   "rank": "8",
+   "top": [
+    "Bark Bath Dog Wash"
+   ]
+  },
+  {
+   "r": 0,
+   "c": 1,
+   "lat": 32.81098,
+   "lng": -117.218385,
+   "rank": "8",
+   "top": [
+    "Rooney Groom - Mobile Dog Grooming"
+   ]
+  },
+  {
+   "r": 0,
+   "c": 2,
+   "lat": 32.81098,
+   "lng": -117.205455,
+   "rank": "5",
+   "top": [
+    "Dunk'N Dogs"
+   ]
+  },
+  {
+   "r": 0,
+   "c": 3,
+   "lat": 32.81098,
+   "lng": -117.192526,
+   "rank": "5",
+   "top": [
+    "Dunk'N Dogs"
+   ]
+  },
+  {
+   "r": 0,
+   "c": 4,
+   "lat": 32.81098,
+   "lng": -117.179596,
+   "rank": "7",
+   "top": [
+    "Paw Alley Pet Grooming"
+   ]
+  },
+  {
+   "r": 1,
+   "c": 0,
+   "lat": 32.800111,
+   "lng": -117.231315,
+   "rank": "5",
+   "top": [
+    "Petco Grooming"
+   ]
+  },
+  {
+   "r": 1,
+   "c": 1,
+   "lat": 32.800111,
+   "lng": -117.218385,
+   "rank": "3",
+   "top": [
+    "Serenity Pet Spaw"
+   ]
+  },
+  {
+   "r": 1,
+   "c": 2,
+   "lat": 32.800111,
+   "lng": -117.205455,
+   "rank": "2",
+   "top": [
+    "Dunk'N Dogs"
+   ]
+  },
+  {
+   "r": 1,
+   "c": 3,
+   "lat": 32.800111,
+   "lng": -117.192526,
+   "rank": "2",
+   "top": [
+    "Dunk'N Dogs"
+   ]
+  },
+  {
+   "r": 1,
+   "c": 4,
+   "lat": 32.800111,
+   "lng": -117.179596,
+   "rank": "4",
+   "top": [
+    "Dirty Dogs Mission Valley"
+   ]
+  },
+  {
+   "r": 2,
+   "c": 0,
+   "lat": 32.789241,
+   "lng": -117.231315,
+   "rank": "2",
+   "top": [
+    "Petco Grooming"
+   ]
+  },
+  {
+   "r": 2,
+   "c": 1,
+   "lat": 32.789241,
+   "lng": -117.218385,
+   "rank": "1",
+   "top": [
+    "Doggies Divine"
+   ]
+  },
+  {
+   "r": 2,
+   "c": 2,
+   "lat": 32.789241,
+   "lng": -117.205455,
+   "rank": "1",
+   "top": [
+    "Doggies Divine"
+   ]
+  },
+  {
+   "r": 2,
+   "c": 3,
+   "lat": 32.789241,
+   "lng": -117.192526,
+   "rank": "9",
+   "top": [
+    "Felines and Friends Grooming"
+   ]
+  },
+  {
+   "r": 2,
+   "c": 4,
+   "lat": 32.789241,
+   "lng": -117.179596,
+   "rank": "2",
+   "top": [
+    "Dunk'N Dogs"
+   ]
+  },
+  {
+   "r": 3,
+   "c": 0,
+   "lat": 32.778372,
+   "lng": -117.231315,
+   "rank": "2",
+   "top": [
+    "Point Loma Dog Salon N Spa"
+   ]
+  },
+  {
+   "r": 3,
+   "c": 1,
+   "lat": 32.778372,
+   "lng": -117.218385,
+   "rank": "2",
+   "top": [
+    "YUPET Grooming"
+   ]
+  },
+  {
+   "r": 3,
+   "c": 2,
+   "lat": 32.778372,
+   "lng": -117.205455,
+   "rank": "2",
+   "top": [
+    "DoggoWash"
+   ]
+  },
+  {
+   "r": 3,
+   "c": 3,
+   "lat": 32.778372,
+   "lng": -117.192526,
+   "rank": "2",
+   "top": [
+    "Dunk'N Dogs"
+   ]
+  },
+  {
+   "r": 3,
+   "c": 4,
+   "lat": 32.778372,
+   "lng": -117.179596,
+   "rank": "3",
+   "top": [
+    "Dunk'N Dogs"
+   ]
+  },
+  {
+   "r": 4,
+   "c": 0,
+   "lat": 32.767502,
+   "lng": -117.231315,
+   "rank": "6",
+   "top": [
+    "Point Loma Dog Salon N Spa"
+   ]
+  },
+  {
+   "r": 4,
+   "c": 1,
+   "lat": 32.767502,
+   "lng": -117.218385,
+   "rank": "4",
+   "top": [
+    "Point Loma Dog Salon N Spa"
+   ]
+  },
+  {
+   "r": 4,
+   "c": 2,
+   "lat": 32.767502,
+   "lng": -117.205455,
+   "rank": "5",
+   "top": [
+    "Point Loma Dog Salon N Spa"
+   ]
+  },
+  {
+   "r": 4,
+   "c": 3,
+   "lat": 32.767502,
+   "lng": -117.192526,
+   "rank": "6",
+   "top": [
+    "Dirty Dogs Hillcrest"
+   ]
+  },
+  {
+   "r": 4,
+   "c": 4,
+   "lat": 32.767502,
+   "lng": -117.179596,
+   "rank": "9",
+   "top": [
+    "Dirty Dogs Mission Valley"
+   ]
+  }
+ ]
+}

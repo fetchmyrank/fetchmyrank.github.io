@@ -1,0 +1,261 @@
+{
+ "slug": "cohens",
+ "business": "Grooming Cohens",
+ "keyword": "mobile dog groomer",
+ "span": "6 miles",
+ "lat": 33.044114,
+ "lng": -117.2542934,
+ "date": "24 Oct 2026",
+ "points": [
+  {
+   "r": 0,
+   "c": 0,
+   "lat": 33.087592,
+   "lng": -117.306161,
+   "rank": "X",
+   "top": [
+    "Paw Purrfection"
+   ]
+  },
+  {
+   "r": 0,
+   "c": 1,
+   "lat": 33.087592,
+   "lng": -117.280227,
+   "rank": "X",
+   "top": [
+    "Fritzy's Pet Care Pros"
+   ]
+  },
+  {
+   "r": 0,
+   "c": 2,
+   "lat": 33.087592,
+   "lng": -117.254293,
+   "rank": "X",
+   "top": [
+    "Groomswell Canine Salon"
+   ]
+  },
+  {
+   "r": 0,
+   "c": 3,
+   "lat": 33.087592,
+   "lng": -117.228359,
+   "rank": "X",
+   "top": [
+    "Cali Pets The Grooming Professionals"
+   ]
+  },
+  {
+   "r": 0,
+   "c": 4,
+   "lat": 33.087592,
+   "lng": -117.202426,
+   "rank": "X",
+   "top": [
+    "Cali Pets The Grooming Professionals"
+   ]
+  },
+  {
+   "r": 1,
+   "c": 0,
+   "lat": 33.065853,
+   "lng": -117.306161,
+   "rank": "X",
+   "top": [
+    "Fritzy's Pet Care Pros"
+   ]
+  },
+  {
+   "r": 1,
+   "c": 1,
+   "lat": 33.065853,
+   "lng": -117.280227,
+   "rank": "X",
+   "top": [
+    "Fritzy's Pet Care Pros"
+   ]
+  },
+  {
+   "r": 1,
+   "c": 2,
+   "lat": 33.065853,
+   "lng": -117.254293,
+   "rank": "X",
+   "top": [
+    "Dog In Suds"
+   ]
+  },
+  {
+   "r": 1,
+   "c": 3,
+   "lat": 33.065853,
+   "lng": -117.228359,
+   "rank": "X",
+   "top": [
+    "Groomswell Canine Salon"
+   ]
+  },
+  {
+   "r": 1,
+   "c": 4,
+   "lat": 33.065853,
+   "lng": -117.202426,
+   "rank": "X",
+   "top": [
+    "Groomswell Canine Salon"
+   ]
+  },
+  {
+   "r": 2,
+   "c": 0,
+   "lat": 33.044114,
+   "lng": -117.306161,
+   "rank": "X",
+   "top": [
+    "Happy Tails Pet Salon"
+   ]
+  },
+  {
+   "r": 2,
+   "c": 1,
+   "lat": 33.044114,
+   "lng": -117.280227,
+   "rank": "X",
+   "top": [
+    "The Grateful Dog Grooming Shop"
+   ]
+  },
+  {
+   "r": 2,
+   "c": 2,
+   "lat": 33.044114,
+   "lng": -117.254293,
+   "rank": "X",
+   "top": [
+    "Posh Pets Grooming"
+   ]
+  },
+  {
+   "r": 2,
+   "c": 3,
+   "lat": 33.044114,
+   "lng": -117.228359,
+   "rank": "X",
+   "top": [
+    "Posh Pets Grooming"
+   ]
+  },
+  {
+   "r": 2,
+   "c": 4,
+   "lat": 33.044114,
+   "lng": -117.202426,
+   "rank": "X",
+   "top": [
+    "Groomswell Canine Salon"
+   ]
+  },
+  {
+   "r": 3,
+   "c": 0,
+   "lat": 33.022375,
+   "lng": -117.306161,
+   "rank": "X",
+   "top": [
+    "The Grateful Dog Grooming Shop"
+   ]
+  },
+  {
+   "r": 3,
+   "c": 1,
+   "lat": 33.022375,
+   "lng": -117.280227,
+   "rank": "X",
+   "top": [
+    "The Grateful Dog Grooming Shop"
+   ]
+  },
+  {
+   "r": 3,
+   "c": 2,
+   "lat": 33.022375,
+   "lng": -117.254293,
+   "rank": "X",
+   "top": [
+    "Happy Spa Dogs Mobile Grooming"
+   ]
+  },
+  {
+   "r": 3,
+   "c": 3,
+   "lat": 33.022375,
+   "lng": -117.228359,
+   "rank": "X",
+   "top": [
+    "Happy Spa Dogs Mobile Grooming"
+   ]
+  },
+  {
+   "r": 3,
+   "c": 4,
+   "lat": 33.022375,
+   "lng": -117.202426,
+   "rank": "X",
+   "top": [
+    "Happy Spa Dogs Mobile Grooming"
+   ]
+  },
+  {
+   "r": 4,
+   "c": 0,
+   "lat": 33.000636,
+   "lng": -117.306161,
+   "rank": "X",
+   "top": [
+    "Dirty Dogs Solana Beach"
+   ]
+  },
+  {
+   "r": 4,
+   "c": 1,
+   "lat": 33.000636,
+   "lng": -117.280227,
+   "rank": "X",
+   "top": [
+    "Dirty Dogs Solana Beach"
+   ]
+  },
+  {
+   "r": 4,
+   "c": 2,
+   "lat": 33.000636,
+   "lng": -117.254293,
+   "rank": "X",
+   "top": [
+    "Happy Spa Dogs Mobile Grooming"
+   ]
+  },
+  {
+   "r": 4,
+   "c": 3,
+   "lat": 33.000636,
+   "lng": -117.228359,
+   "rank": "X",
+   "top": [
+    "Happy Spa Dogs Mobile Grooming"
+   ]
+  },
+  {
+   "r": 4,
+   "c": 4,
+   "lat": 33.000636,
+   "lng": -117.202426,
+   "rank": "X",
+   "top": [
+    "Happy Spa Dogs Mobile Grooming"
+   ]
+  }
+ ]
+}

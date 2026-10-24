@@ -1,0 +1,261 @@
+{
+ "slug": "christina",
+ "business": "Christina's Pawtastic Mobile Grooming",
+ "keyword": "mobile dog groomer",
+ "span": "6 miles",
+ "lat": 32.8242556,
+ "lng": -117.1027679,
+ "date": "24 Oct 2026",
+ "points": [
+  {
+   "r": 0,
+   "c": 0,
+   "lat": 32.867734,
+   "lng": -117.154507,
+   "rank": "X",
+   "top": [
+    "Barkbus Mobile Dog Grooming"
+   ]
+  },
+  {
+   "r": 0,
+   "c": 1,
+   "lat": 32.867734,
+   "lng": -117.128637,
+   "rank": "X",
+   "top": [
+    "Barkbus Mobile Dog Grooming"
+   ]
+  },
+  {
+   "r": 0,
+   "c": 2,
+   "lat": 32.867734,
+   "lng": -117.102768,
+   "rank": "X",
+   "top": [
+    "Dirty Paws Pet Wash"
+   ]
+  },
+  {
+   "r": 0,
+   "c": 3,
+   "lat": 32.867734,
+   "lng": -117.076898,
+   "rank": "X",
+   "top": [
+    "Dirty Paws Pet Wash"
+   ]
+  },
+  {
+   "r": 0,
+   "c": 4,
+   "lat": 32.867734,
+   "lng": -117.051029,
+   "rank": "X",
+   "top": [
+    "FURology Pet SPaw Inc."
+   ]
+  },
+  {
+   "r": 1,
+   "c": 0,
+   "lat": 32.845995,
+   "lng": -117.154507,
+   "rank": "X",
+   "top": [
+    "Sweet Pea Grooming Kearny Mesa"
+   ]
+  },
+  {
+   "r": 1,
+   "c": 1,
+   "lat": 32.845995,
+   "lng": -117.128637,
+   "rank": "X",
+   "top": [
+    "Sweet Pea Grooming Kearny Mesa"
+   ]
+  },
+  {
+   "r": 1,
+   "c": 2,
+   "lat": 32.845995,
+   "lng": -117.102768,
+   "rank": "X",
+   "top": [
+    "Dirty Paws Pet Wash"
+   ]
+  },
+  {
+   "r": 1,
+   "c": 3,
+   "lat": 32.845995,
+   "lng": -117.076898,
+   "rank": "X",
+   "top": [
+    "Dirty Paws Pet Wash"
+   ]
+  },
+  {
+   "r": 1,
+   "c": 4,
+   "lat": 32.845995,
+   "lng": -117.051029,
+   "rank": "X",
+   "top": [
+    "FURology Pet SPaw Inc."
+   ]
+  },
+  {
+   "r": 2,
+   "c": 0,
+   "lat": 32.824256,
+   "lng": -117.154507,
+   "rank": "X",
+   "top": [
+    "Sweet Pea Grooming Kearny Mesa"
+   ]
+  },
+  {
+   "r": 2,
+   "c": 1,
+   "lat": 32.824256,
+   "lng": -117.128637,
+   "rank": "X",
+   "top": [
+    "Sweet Pea Grooming Kearny Mesa"
+   ]
+  },
+  {
+   "r": 2,
+   "c": 2,
+   "lat": 32.824256,
+   "lng": -117.102768,
+   "rank": "X",
+   "top": [
+    "Canine Cleaners"
+   ]
+  },
+  {
+   "r": 2,
+   "c": 3,
+   "lat": 32.824256,
+   "lng": -117.076898,
+   "rank": "X",
+   "top": [
+    "Disco Dogs Mobile Spa"
+   ]
+  },
+  {
+   "r": 2,
+   "c": 4,
+   "lat": 32.824256,
+   "lng": -117.051029,
+   "rank": "X",
+   "top": [
+    "Disco Dogs Mobile Spa"
+   ]
+  },
+  {
+   "r": 3,
+   "c": 0,
+   "lat": 32.802516,
+   "lng": -117.154507,
+   "rank": "X",
+   "top": [
+    "YUPET Grooming"
+   ]
+  },
+  {
+   "r": 3,
+   "c": 1,
+   "lat": 32.802516,
+   "lng": -117.128637,
+   "rank": "X",
+   "top": [
+    "Raise The Wuff Mobile Dog Grooming"
+   ]
+  },
+  {
+   "r": 3,
+   "c": 2,
+   "lat": 32.802516,
+   "lng": -117.102768,
+   "rank": "X",
+   "top": [
+    "Disco Dogs Mobile Spa"
+   ]
+  },
+  {
+   "r": 3,
+   "c": 3,
+   "lat": 32.802516,
+   "lng": -117.076898,
+   "rank": "X",
+   "top": [
+    "Disco Dogs Mobile Spa"
+   ]
+  },
+  {
+   "r": 3,
+   "c": 4,
+   "lat": 32.802516,
+   "lng": -117.051029,
+   "rank": "X",
+   "top": [
+    "Disco Dogs Mobile Spa"
+   ]
+  },
+  {
+   "r": 4,
+   "c": 0,
+   "lat": 32.780777,
+   "lng": -117.154507,
+   "rank": "X",
+   "top": [
+    "Raise The Wuff Mobile Dog Grooming"
+   ]
+  },
+  {
+   "r": 4,
+   "c": 1,
+   "lat": 32.780777,
+   "lng": -117.128637,
+   "rank": "X",
+   "top": [
+    "Raise The Wuff Mobile Dog Grooming"
+   ]
+  },
+  {
+   "r": 4,
+   "c": 2,
+   "lat": 32.780777,
+   "lng": -117.102768,
+   "rank": "X",
+   "top": [
+    "Disco Dogs Mobile Spa"
+   ]
+  },
+  {
+   "r": 4,
+   "c": 3,
+   "lat": 32.780777,
+   "lng": -117.076898,
+   "rank": "X",
+   "top": [
+    "Disco Dogs Mobile Spa"
+   ]
+  },
+  {
+   "r": 4,
+   "c": 4,
+   "lat": 32.780777,
+   "lng": -117.051029,
+   "rank": "X",
+   "top": [
+    "Disco Dogs Mobile Spa"
+   ]
+  }
+ ]
+}

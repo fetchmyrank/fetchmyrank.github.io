@@ -1,0 +1,261 @@
+{
+ "slug": "spawtlight",
+ "business": "Spawtlight Dog Salon & Spa",
+ "keyword": "dog groomer",
+ "span": "3 miles",
+ "lat": 32.7144966,
+ "lng": -117.1562053,
+ "date": "24 Oct 2026",
+ "points": [
+  {
+   "r": 0,
+   "c": 0,
+   "lat": 32.736236,
+   "lng": -117.182043,
+   "rank": "16",
+   "top": [
+    "Besties DogSpa"
+   ]
+  },
+  {
+   "r": 0,
+   "c": 1,
+   "lat": 32.736236,
+   "lng": -117.169124,
+   "rank": "X",
+   "top": [
+    "Belly Scrub"
+   ]
+  },
+  {
+   "r": 0,
+   "c": 2,
+   "lat": 32.736236,
+   "lng": -117.156205,
+   "rank": "18",
+   "top": [
+    "Dirty Dogs Hillcrest"
+   ]
+  },
+  {
+   "r": 0,
+   "c": 3,
+   "lat": 32.736236,
+   "lng": -117.143286,
+   "rank": "X",
+   "top": [
+    "Chic Paws Pet Grooming"
+   ]
+  },
+  {
+   "r": 0,
+   "c": 4,
+   "lat": 32.736236,
+   "lng": -117.130368,
+   "rank": "X",
+   "top": [
+    "Dirty Dogs Hillcrest"
+   ]
+  },
+  {
+   "r": 1,
+   "c": 0,
+   "lat": 32.725366,
+   "lng": -117.182043,
+   "rank": "11",
+   "top": [
+    "The Den Paw Spa"
+   ]
+  },
+  {
+   "r": 1,
+   "c": 1,
+   "lat": 32.725366,
+   "lng": -117.169124,
+   "rank": "7",
+   "top": [
+    "The Den Paw Spa"
+   ]
+  },
+  {
+   "r": 1,
+   "c": 2,
+   "lat": 32.725366,
+   "lng": -117.156205,
+   "rank": "6",
+   "top": [
+    "The Den Paw Spa"
+   ]
+  },
+  {
+   "r": 1,
+   "c": 3,
+   "lat": 32.725366,
+   "lng": -117.143286,
+   "rank": "11",
+   "top": [
+    "Bark Out Loud"
+   ]
+  },
+  {
+   "r": 1,
+   "c": 4,
+   "lat": 32.725366,
+   "lng": -117.130368,
+   "rank": "20",
+   "top": [
+    "South Bark Dog Wash and Retail Store"
+   ]
+  },
+  {
+   "r": 2,
+   "c": 0,
+   "lat": 32.714497,
+   "lng": -117.182043,
+   "rank": "6",
+   "top": [
+    "PoshPaws"
+   ]
+  },
+  {
+   "r": 2,
+   "c": 1,
+   "lat": 32.714497,
+   "lng": -117.169124,
+   "rank": "3",
+   "top": [
+    "The Den Paw Spa"
+   ]
+  },
+  {
+   "r": 2,
+   "c": 2,
+   "lat": 32.714497,
+   "lng": -117.156205,
+   "rank": "5",
+   "top": [
+    "Fabiulous Pet Spa"
+   ]
+  },
+  {
+   "r": 2,
+   "c": 3,
+   "lat": 32.714497,
+   "lng": -117.143286,
+   "rank": "9",
+   "top": [
+    "Bark Out Loud"
+   ]
+  },
+  {
+   "r": 2,
+   "c": 4,
+   "lat": 32.714497,
+   "lng": -117.130368,
+   "rank": "10",
+   "top": [
+    "Yesi's Pet Grooming"
+   ]
+  },
+  {
+   "r": 3,
+   "c": 0,
+   "lat": 32.703627,
+   "lng": -117.182043,
+   "rank": "8",
+   "top": [
+    "Purple Paws Pet Clinic"
+   ]
+  },
+  {
+   "r": 3,
+   "c": 1,
+   "lat": 32.703627,
+   "lng": -117.169124,
+   "rank": "6",
+   "top": [
+    "City Dog"
+   ]
+  },
+  {
+   "r": 3,
+   "c": 2,
+   "lat": 32.703627,
+   "lng": -117.156205,
+   "rank": "6",
+   "top": [
+    "Pupper Club"
+   ]
+  },
+  {
+   "r": 3,
+   "c": 3,
+   "lat": 32.703627,
+   "lng": -117.143286,
+   "rank": "9",
+   "top": [
+    "Bark Out Loud"
+   ]
+  },
+  {
+   "r": 3,
+   "c": 4,
+   "lat": 32.703627,
+   "lng": -117.130368,
+   "rank": "9",
+   "top": [
+    "South Bark Dog Wash and Retail Store"
+   ]
+  },
+  {
+   "r": 4,
+   "c": 0,
+   "lat": 32.692757,
+   "lng": -117.182043,
+   "rank": "10",
+   "top": [
+    "Pollyanna's Grooming"
+   ]
+  },
+  {
+   "r": 4,
+   "c": 1,
+   "lat": 32.692757,
+   "lng": -117.169124,
+   "rank": "13",
+   "top": [
+    "The Den Paw Spa"
+   ]
+  },
+  {
+   "r": 4,
+   "c": 2,
+   "lat": 32.692757,
+   "lng": -117.156205,
+   "rank": "7",
+   "top": [
+    "City Dog"
+   ]
+  },
+  {
+   "r": 4,
+   "c": 3,
+   "lat": 32.692757,
+   "lng": -117.143286,
+   "rank": "8",
+   "top": [
+    "Bark Out Loud"
+   ]
+  },
+  {
+   "r": 4,
+   "c": 4,
+   "lat": 32.692757,
+   "lng": -117.130368,
+   "rank": "11",
+   "top": [
+    "Yesi's Pet Grooming"
+   ]
+  }
+ ]
+}

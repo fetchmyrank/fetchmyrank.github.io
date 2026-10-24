@@ -1,0 +1,259 @@
+{
+ "slug": "allgooddogs",
+ "business": "All Good Dogs Grooming",
+ "keyword": "mobile dog groomer",
+ "span": "6 miles",
+ "lat": 32.8731994,
+ "lng": -117.09152,
+ "date": "24 Oct 2026",
+ "points": [
+  {
+   "r": 0,
+   "c": 0,
+   "lat": 32.916678,
+   "lng": -117.143288,
+   "rank": "X",
+   "top": [
+    "Barkbus Mobile Dog Grooming"
+   ]
+  },
+  {
+   "r": 0,
+   "c": 1,
+   "lat": 32.916678,
+   "lng": -117.117404,
+   "rank": "X",
+   "top": [
+    "Critter Cleaners"
+   ]
+  },
+  {
+   "r": 0,
+   "c": 2,
+   "lat": 32.916678,
+   "lng": -117.09152,
+   "rank": "X",
+   "top": [
+    "Pawfection Pet Salon"
+   ]
+  },
+  {
+   "r": 0,
+   "c": 3,
+   "lat": 32.916678,
+   "lng": -117.065636,
+   "rank": "X",
+   "top": [
+    "Pawfection Pet Salon"
+   ]
+  },
+  {
+   "r": 0,
+   "c": 4,
+   "lat": 32.916678,
+   "lng": -117.039752,
+   "rank": "X",
+   "top": [
+    "My Perfect Pet"
+   ]
+  },
+  {
+   "r": 1,
+   "c": 0,
+   "lat": 32.894939,
+   "lng": -117.143288,
+   "rank": "X",
+   "top": [
+    "Barkbus Mobile Dog Grooming"
+   ]
+  },
+  {
+   "r": 1,
+   "c": 1,
+   "lat": 32.894939,
+   "lng": -117.117404,
+   "rank": "X",
+   "top": [
+    "Critter Cleaners"
+   ]
+  },
+  {
+   "r": 1,
+   "c": 2,
+   "lat": 32.894939,
+   "lng": -117.09152,
+   "rank": "X",
+   "top": [
+    "Critter Cleaners"
+   ]
+  },
+  {
+   "r": 1,
+   "c": 3,
+   "lat": 32.894939,
+   "lng": -117.065636,
+   "rank": "X",
+   "top": [
+    "Pawfection Pet Salon"
+   ]
+  },
+  {
+   "r": 1,
+   "c": 4,
+   "lat": 32.894939,
+   "lng": -117.039752,
+   "rank": "N",
+   "top": []
+  },
+  {
+   "r": 2,
+   "c": 0,
+   "lat": 32.873199,
+   "lng": -117.143288,
+   "rank": "X",
+   "top": [
+    "Barkbus Mobile Dog Grooming"
+   ]
+  },
+  {
+   "r": 2,
+   "c": 1,
+   "lat": 32.873199,
+   "lng": -117.117404,
+   "rank": "X",
+   "top": [
+    "Barkbus Mobile Dog Grooming"
+   ]
+  },
+  {
+   "r": 2,
+   "c": 2,
+   "lat": 32.873199,
+   "lng": -117.09152,
+   "rank": "X",
+   "top": [
+    "Dirty Paws Pet Wash"
+   ]
+  },
+  {
+   "r": 2,
+   "c": 3,
+   "lat": 32.873199,
+   "lng": -117.065636,
+   "rank": "X",
+   "top": [
+    "Dirty Paws Pet Wash"
+   ]
+  },
+  {
+   "r": 2,
+   "c": 4,
+   "lat": 32.873199,
+   "lng": -117.039752,
+   "rank": "X",
+   "top": [
+    "FURology Pet SPaw Inc."
+   ]
+  },
+  {
+   "r": 3,
+   "c": 0,
+   "lat": 32.85146,
+   "lng": -117.143288,
+   "rank": "X",
+   "top": [
+    "Sweet Pea Grooming Kearny Mesa"
+   ]
+  },
+  {
+   "r": 3,
+   "c": 1,
+   "lat": 32.85146,
+   "lng": -117.117404,
+   "rank": "X",
+   "top": [
+    "Dirty Paws Pet Wash"
+   ]
+  },
+  {
+   "r": 3,
+   "c": 2,
+   "lat": 32.85146,
+   "lng": -117.09152,
+   "rank": "X",
+   "top": [
+    "Dirty Paws Pet Wash"
+   ]
+  },
+  {
+   "r": 3,
+   "c": 3,
+   "lat": 32.85146,
+   "lng": -117.065636,
+   "rank": "X",
+   "top": [
+    "Dirty Paws Pet Wash"
+   ]
+  },
+  {
+   "r": 3,
+   "c": 4,
+   "lat": 32.85146,
+   "lng": -117.039752,
+   "rank": "X",
+   "top": [
+    "FURology Pet SPaw Inc."
+   ]
+  },
+  {
+   "r": 4,
+   "c": 0,
+   "lat": 32.829721,
+   "lng": -117.143288,
+   "rank": "X",
+   "top": [
+    "Sweet Pea Grooming Kearny Mesa"
+   ]
+  },
+  {
+   "r": 4,
+   "c": 1,
+   "lat": 32.829721,
+   "lng": -117.117404,
+   "rank": "X",
+   "top": [
+    "Canine Cleaners"
+   ]
+  },
+  {
+   "r": 4,
+   "c": 2,
+   "lat": 32.829721,
+   "lng": -117.09152,
+   "rank": "X",
+   "top": [
+    "Dirty Paws Pet Wash"
+   ]
+  },
+  {
+   "r": 4,
+   "c": 3,
+   "lat": 32.829721,
+   "lng": -117.065636,
+   "rank": "X",
+   "top": [
+    "Dirty Paws Pet Wash"
+   ]
+  },
+  {
+   "r": 4,
+   "c": 4,
+   "lat": 32.829721,
+   "lng": -117.039752,
+   "rank": "X",
+   "top": [
+    "Priscilla's Grooming"
+   ]
+  }
+ ]
+}

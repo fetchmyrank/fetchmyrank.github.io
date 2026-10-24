@@ -1,0 +1,253 @@
+{
+ "slug": "kindspa",
+ "business": "The Kind Spa",
+ "keyword": "mobile dog groomer",
+ "span": "6 miles",
+ "lat": 33.2742436,
+ "lng": -117.330156,
+ "date": "24 Oct 2026",
+ "points": [
+  {
+   "r": 0,
+   "c": 0,
+   "lat": 33.317722,
+   "lng": -117.38216,
+   "rank": "N",
+   "top": []
+  },
+  {
+   "r": 0,
+   "c": 1,
+   "lat": 33.317722,
+   "lng": -117.356158,
+   "rank": "N",
+   "top": []
+  },
+  {
+   "r": 0,
+   "c": 2,
+   "lat": 33.317722,
+   "lng": -117.330156,
+   "rank": "X",
+   "top": [
+    "Melissa\u2019s mobile dog grooming"
+   ]
+  },
+  {
+   "r": 0,
+   "c": 3,
+   "lat": 33.317722,
+   "lng": -117.304154,
+   "rank": "X",
+   "top": [
+    "Melissa\u2019s mobile dog grooming"
+   ]
+  },
+  {
+   "r": 0,
+   "c": 4,
+   "lat": 33.317722,
+   "lng": -117.278152,
+   "rank": "X",
+   "top": [
+    "Melissa\u2019s mobile dog grooming"
+   ]
+  },
+  {
+   "r": 1,
+   "c": 0,
+   "lat": 33.295983,
+   "lng": -117.38216,
+   "rank": "N",
+   "top": []
+  },
+  {
+   "r": 1,
+   "c": 1,
+   "lat": 33.295983,
+   "lng": -117.356158,
+   "rank": "N",
+   "top": []
+  },
+  {
+   "r": 1,
+   "c": 2,
+   "lat": 33.295983,
+   "lng": -117.330156,
+   "rank": "X",
+   "top": [
+    "Melissa\u2019s mobile dog grooming"
+   ]
+  },
+  {
+   "r": 1,
+   "c": 3,
+   "lat": 33.295983,
+   "lng": -117.304154,
+   "rank": "X",
+   "top": [
+    "Melissa\u2019s mobile dog grooming"
+   ]
+  },
+  {
+   "r": 1,
+   "c": 4,
+   "lat": 33.295983,
+   "lng": -117.278152,
+   "rank": "X",
+   "top": [
+    "Melissa\u2019s mobile dog grooming"
+   ]
+  },
+  {
+   "r": 2,
+   "c": 0,
+   "lat": 33.274244,
+   "lng": -117.38216,
+   "rank": "X",
+   "top": [
+    "California Groomin' Mobile Salon"
+   ]
+  },
+  {
+   "r": 2,
+   "c": 1,
+   "lat": 33.274244,
+   "lng": -117.356158,
+   "rank": "X",
+   "top": [
+    "Fritzy's Pet Care Pros"
+   ]
+  },
+  {
+   "r": 2,
+   "c": 2,
+   "lat": 33.274244,
+   "lng": -117.330156,
+   "rank": "X",
+   "top": [
+    "California Groomin' Mobile Salon"
+   ]
+  },
+  {
+   "r": 2,
+   "c": 3,
+   "lat": 33.274244,
+   "lng": -117.304154,
+   "rank": "X",
+   "top": [
+    "Fritzy's Pet Care Pros"
+   ]
+  },
+  {
+   "r": 2,
+   "c": 4,
+   "lat": 33.274244,
+   "lng": -117.278152,
+   "rank": "X",
+   "top": [
+    "Kim's Magic Touch Dog Grooming"
+   ]
+  },
+  {
+   "r": 3,
+   "c": 0,
+   "lat": 33.252504,
+   "lng": -117.38216,
+   "rank": "X",
+   "top": [
+    "Pup Culture Pet Spaw"
+   ]
+  },
+  {
+   "r": 3,
+   "c": 1,
+   "lat": 33.252504,
+   "lng": -117.356158,
+   "rank": "X",
+   "top": [
+    "Pup Culture Pet Spaw"
+   ]
+  },
+  {
+   "r": 3,
+   "c": 2,
+   "lat": 33.252504,
+   "lng": -117.330156,
+   "rank": "X",
+   "top": [
+    "Pup Culture Pet Spaw"
+   ]
+  },
+  {
+   "r": 3,
+   "c": 3,
+   "lat": 33.252504,
+   "lng": -117.304154,
+   "rank": "X",
+   "top": [
+    "California Groomin' Mobile Salon"
+   ]
+  },
+  {
+   "r": 3,
+   "c": 4,
+   "lat": 33.252504,
+   "lng": -117.278152,
+   "rank": "X",
+   "top": [
+    "Kim's Magic Touch Dog Grooming"
+   ]
+  },
+  {
+   "r": 4,
+   "c": 0,
+   "lat": 33.230765,
+   "lng": -117.38216,
+   "rank": "X",
+   "top": [
+    "A Touch of Gold Pet Grooming"
+   ]
+  },
+  {
+   "r": 4,
+   "c": 1,
+   "lat": 33.230765,
+   "lng": -117.356158,
+   "rank": "X",
+   "top": [
+    "A Touch of Gold Pet Grooming"
+   ]
+  },
+  {
+   "r": 4,
+   "c": 2,
+   "lat": 33.230765,
+   "lng": -117.330156,
+   "rank": "X",
+   "top": [
+    "Pup Culture Pet Spaw"
+   ]
+  },
+  {
+   "r": 4,
+   "c": 3,
+   "lat": 33.230765,
+   "lng": -117.304154,
+   "rank": "X",
+   "top": [
+    "Pup Culture Pet Spaw"
+   ]
+  },
+  {
+   "r": 4,
+   "c": 4,
+   "lat": 33.230765,
+   "lng": -117.278152,
+   "rank": "X",
+   "top": [
+    "Petco Grooming"
+   ]
+  }
+ ]
+}

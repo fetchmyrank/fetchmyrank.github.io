@@ -1,0 +1,310 @@
+{
+ "slug": "pawadise",
+ "business": "Pawadise",
+ "keyword": "mobile dog groomer",
+ "span": "6 miles",
+ "lat": 32.8244879,
+ "lng": -117.0644554,
+ "date": "24 Oct 2026",
+ "points": [
+  {
+   "r": 0,
+   "c": 0,
+   "lat": 32.867966,
+   "lng": -117.116195,
+   "rank": "X",
+   "top": [
+    "Barkbus Mobile Dog Grooming",
+    "Dirty Paws Pet Wash",
+    "24 Hour Dog Daycare"
+   ]
+  },
+  {
+   "r": 0,
+   "c": 1,
+   "lat": 32.867966,
+   "lng": -117.090325,
+   "rank": "X",
+   "top": [
+    "Dirty Paws Pet Wash",
+    "Ruff Life Mobile Pet Spaw"
+   ]
+  },
+  {
+   "r": 0,
+   "c": 2,
+   "lat": 32.867966,
+   "lng": -117.064455,
+   "rank": "X",
+   "top": [
+    "Dirty Paws Pet Wash",
+    "Essential Grooming & Wellness",
+    "Ruff Life Mobile Pet Spaw"
+   ]
+  },
+  {
+   "r": 0,
+   "c": 3,
+   "lat": 32.867966,
+   "lng": -117.038586,
+   "rank": "X",
+   "top": [
+    "FURology Pet SPaw Inc.",
+    "Essential Grooming & Wellness",
+    "PURRology SPaw and Retreat"
+   ]
+  },
+  {
+   "r": 0,
+   "c": 4,
+   "lat": 32.867966,
+   "lng": -117.012716,
+   "rank": "X",
+   "top": [
+    "FURology Pet SPaw Inc.",
+    "Essential Grooming & Wellness",
+    "PURRology SPaw and Retreat"
+   ]
+  },
+  {
+   "r": 1,
+   "c": 0,
+   "lat": 32.846227,
+   "lng": -117.116195,
+   "rank": "X",
+   "top": [
+    "Dirty Paws Pet Wash",
+    "Canine Cleaners",
+    "Sweet Pea Grooming Kearny Mesa"
+   ]
+  },
+  {
+   "r": 1,
+   "c": 1,
+   "lat": 32.846227,
+   "lng": -117.090325,
+   "rank": "X",
+   "top": [
+    "Dirty Paws Pet Wash",
+    "Canine Cleaners",
+    "Ruff Life Mobile Pet Spaw"
+   ]
+  },
+  {
+   "r": 1,
+   "c": 2,
+   "lat": 32.846227,
+   "lng": -117.064455,
+   "rank": "X",
+   "top": [
+    "Dirty Paws Pet Wash",
+    "Essential Grooming & Wellness",
+    "Priscilla's Grooming"
+   ]
+  },
+  {
+   "r": 1,
+   "c": 3,
+   "lat": 32.846227,
+   "lng": -117.038586,
+   "rank": "X",
+   "top": [
+    "FURology Pet SPaw Inc.",
+    "Essential Grooming & Wellness",
+    "Dogbus Grooming"
+   ]
+  },
+  {
+   "r": 1,
+   "c": 4,
+   "lat": 32.846227,
+   "lng": -117.012716,
+   "rank": "X",
+   "top": [
+    "FURology Pet SPaw Inc.",
+    "Essential Grooming & Wellness",
+    "Sharp Dressed Pets Grooming"
+   ]
+  },
+  {
+   "r": 2,
+   "c": 0,
+   "lat": 32.824488,
+   "lng": -117.116195,
+   "rank": "X",
+   "top": [
+    "Canine Cleaners",
+    "Disco Dogs Mobile Spa",
+    "Dirty Paws Pet Wash"
+   ]
+  },
+  {
+   "r": 2,
+   "c": 1,
+   "lat": 32.824488,
+   "lng": -117.090325,
+   "rank": "X",
+   "top": [
+    "Disco Dogs Mobile Spa",
+    "Dirty Paws Pet Wash",
+    "Canine Cleaners"
+   ]
+  },
+  {
+   "r": 2,
+   "c": 2,
+   "lat": 32.824488,
+   "lng": -117.064455,
+   "rank": "X",
+   "top": [
+    "Disco Dogs Mobile Spa",
+    "Priscilla's Grooming",
+    "Dirty Paws Pet Wash"
+   ]
+  },
+  {
+   "r": 2,
+   "c": 3,
+   "lat": 32.824488,
+   "lng": -117.038586,
+   "rank": "X",
+   "top": [
+    "Disco Dogs Mobile Spa",
+    "Suds N Pups Dog Grooming and Wash",
+    "Priscilla's Grooming"
+   ]
+  },
+  {
+   "r": 2,
+   "c": 4,
+   "lat": 32.824488,
+   "lng": -117.012716,
+   "rank": "X",
+   "top": [
+    "Dogbus Grooming",
+    "Essential Grooming & Wellness",
+    "Suds N Paws"
+   ]
+  },
+  {
+   "r": 3,
+   "c": 0,
+   "lat": 32.802749,
+   "lng": -117.116195,
+   "rank": "X",
+   "top": [
+    "Raise The Wuff Mobile Dog Grooming",
+    "Disco Dogs Mobile Spa",
+    "PetSmart Grooming"
+   ]
+  },
+  {
+   "r": 3,
+   "c": 1,
+   "lat": 32.802749,
+   "lng": -117.090325,
+   "rank": "X",
+   "top": [
+    "Disco Dogs Mobile Spa",
+    "Suds N Pups Dog Grooming and Wash, Inc.",
+    "Canine Cleaners"
+   ]
+  },
+  {
+   "r": 3,
+   "c": 2,
+   "lat": 32.802749,
+   "lng": -117.064455,
+   "rank": "X",
+   "top": [
+    "Disco Dogs Mobile Spa",
+    "Priscilla's Grooming",
+    "Suds N Pups Dog Grooming and Wash, Inc."
+   ]
+  },
+  {
+   "r": 3,
+   "c": 3,
+   "lat": 32.802749,
+   "lng": -117.038586,
+   "rank": "X",
+   "top": [
+    "Suds N Pups Dog Grooming and Wash",
+    "Disco Dogs Mobile Spa",
+    "Lake Murray Grooming"
+   ]
+  },
+  {
+   "r": 3,
+   "c": 4,
+   "lat": 32.802749,
+   "lng": -117.012716,
+   "rank": "X",
+   "top": [
+    "Lake Murray Grooming",
+    "Suds N Paws",
+    "Suds N Pups Dog Grooming and Wash"
+   ]
+  },
+  {
+   "r": 4,
+   "c": 0,
+   "lat": 32.78101,
+   "lng": -117.116195,
+   "rank": "X",
+   "top": [
+    "The Little Dog Studio - Mobile Grooming",
+    "Raise The Wuff Mobile Dog Grooming",
+    "Disco Dogs Mobile Spa"
+   ]
+  },
+  {
+   "r": 4,
+   "c": 1,
+   "lat": 32.78101,
+   "lng": -117.090325,
+   "rank": "X",
+   "top": [
+    "Disco Dogs Mobile Spa",
+    "Suds N Pups Dog Grooming and Wash, Inc.",
+    "Local Dog, Mobile Pet Grooming"
+   ]
+  },
+  {
+   "r": 4,
+   "c": 2,
+   "lat": 32.78101,
+   "lng": -117.064455,
+   "rank": "X",
+   "top": [
+    "Disco Dogs Mobile Spa",
+    "Local Dog, Mobile Pet Grooming",
+    "Pet Beloved"
+   ]
+  },
+  {
+   "r": 4,
+   "c": 3,
+   "lat": 32.78101,
+   "lng": -117.038586,
+   "rank": "X",
+   "top": [
+    "Local Dog, Mobile Pet Grooming",
+    "Doggie Dos",
+    "Disco Dogs Mobile Spa"
+   ]
+  },
+  {
+   "r": 4,
+   "c": 4,
+   "lat": 32.78101,
+   "lng": -117.012716,
+   "rank": "X",
+   "top": [
+    "Local Dog, Mobile Pet Grooming",
+    "El Cajon Dog Wash and Grooming Salon",
+    "Lake Murray Grooming"
+   ]
+  }
+ ]
+}

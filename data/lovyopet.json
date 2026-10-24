@@ -1,0 +1,261 @@
+{
+ "slug": "lovyopet",
+ "business": "LovYoPet Mobile Grooming",
+ "keyword": "mobile dog groomer",
+ "span": "6 miles",
+ "lat": 32.9173924,
+ "lng": -117.1520576,
+ "date": "24 Oct 2026",
+ "points": [
+  {
+   "r": 0,
+   "c": 0,
+   "lat": 32.960871,
+   "lng": -117.203851,
+   "rank": "X",
+   "top": [
+    "Zoomin Groomin"
+   ]
+  },
+  {
+   "r": 0,
+   "c": 1,
+   "lat": 32.960871,
+   "lng": -117.177954,
+   "rank": "X",
+   "top": [
+    "Zoomin Groomin"
+   ]
+  },
+  {
+   "r": 0,
+   "c": 2,
+   "lat": 32.960871,
+   "lng": -117.152058,
+   "rank": "X",
+   "top": [
+    "Shaggy Dogs Grooming Salon"
+   ]
+  },
+  {
+   "r": 0,
+   "c": 3,
+   "lat": 32.960871,
+   "lng": -117.126161,
+   "rank": "X",
+   "top": [
+    "Because We Care Dog & Cat Grooming"
+   ]
+  },
+  {
+   "r": 0,
+   "c": 4,
+   "lat": 32.960871,
+   "lng": -117.100264,
+   "rank": "X",
+   "top": [
+    "Keepet Groomed"
+   ]
+  },
+  {
+   "r": 1,
+   "c": 0,
+   "lat": 32.939132,
+   "lng": -117.203851,
+   "rank": "X",
+   "top": [
+    "Zoomin Groomin"
+   ]
+  },
+  {
+   "r": 1,
+   "c": 1,
+   "lat": 32.939132,
+   "lng": -117.177954,
+   "rank": "X",
+   "top": [
+    "Dirty Dogs Torrey Hills"
+   ]
+  },
+  {
+   "r": 1,
+   "c": 2,
+   "lat": 32.939132,
+   "lng": -117.152058,
+   "rank": "X",
+   "top": [
+    "Shaggy Dogs Grooming Salon"
+   ]
+  },
+  {
+   "r": 1,
+   "c": 3,
+   "lat": 32.939132,
+   "lng": -117.126161,
+   "rank": "X",
+   "top": [
+    "Taylor-Made pet groomery"
+   ]
+  },
+  {
+   "r": 1,
+   "c": 4,
+   "lat": 32.939132,
+   "lng": -117.100264,
+   "rank": "X",
+   "top": [
+    "The Bark & Collar"
+   ]
+  },
+  {
+   "r": 2,
+   "c": 0,
+   "lat": 32.917392,
+   "lng": -117.203851,
+   "rank": "X",
+   "top": [
+    "Dirty Dogs Torrey Hills"
+   ]
+  },
+  {
+   "r": 2,
+   "c": 1,
+   "lat": 32.917392,
+   "lng": -117.177954,
+   "rank": "X",
+   "top": [
+    "Barkbus Mobile Dog Grooming"
+   ]
+  },
+  {
+   "r": 2,
+   "c": 2,
+   "lat": 32.917392,
+   "lng": -117.152058,
+   "rank": "X",
+   "top": [
+    "Barkbus Mobile Dog Grooming"
+   ]
+  },
+  {
+   "r": 2,
+   "c": 3,
+   "lat": 32.917392,
+   "lng": -117.126161,
+   "rank": "X",
+   "top": [
+    "Critter Cleaners"
+   ]
+  },
+  {
+   "r": 2,
+   "c": 4,
+   "lat": 32.917392,
+   "lng": -117.100264,
+   "rank": "X",
+   "top": [
+    "Critter Cleaners"
+   ]
+  },
+  {
+   "r": 3,
+   "c": 0,
+   "lat": 32.895653,
+   "lng": -117.203851,
+   "rank": "X",
+   "top": [
+    "Private Mobile Grooming"
+   ]
+  },
+  {
+   "r": 3,
+   "c": 1,
+   "lat": 32.895653,
+   "lng": -117.177954,
+   "rank": "X",
+   "top": [
+    "Private Mobile Grooming"
+   ]
+  },
+  {
+   "r": 3,
+   "c": 2,
+   "lat": 32.895653,
+   "lng": -117.152058,
+   "rank": "X",
+   "top": [
+    "Barkbus Mobile Dog Grooming"
+   ]
+  },
+  {
+   "r": 3,
+   "c": 3,
+   "lat": 32.895653,
+   "lng": -117.126161,
+   "rank": "X",
+   "top": [
+    "Barkbus Mobile Dog Grooming"
+   ]
+  },
+  {
+   "r": 3,
+   "c": 4,
+   "lat": 32.895653,
+   "lng": -117.100264,
+   "rank": "X",
+   "top": [
+    "Critter Cleaners"
+   ]
+  },
+  {
+   "r": 4,
+   "c": 0,
+   "lat": 32.873914,
+   "lng": -117.203851,
+   "rank": "X",
+   "top": [
+    "Private Mobile Grooming"
+   ]
+  },
+  {
+   "r": 4,
+   "c": 1,
+   "lat": 32.873914,
+   "lng": -117.177954,
+   "rank": "X",
+   "top": [
+    "Private Mobile Grooming"
+   ]
+  },
+  {
+   "r": 4,
+   "c": 2,
+   "lat": 32.873914,
+   "lng": -117.152058,
+   "rank": "X",
+   "top": [
+    "Barkbus Mobile Dog Grooming"
+   ]
+  },
+  {
+   "r": 4,
+   "c": 3,
+   "lat": 32.873914,
+   "lng": -117.126161,
+   "rank": "X",
+   "top": [
+    "Barkbus Mobile Dog Grooming"
+   ]
+  },
+  {
+   "r": 4,
+   "c": 4,
+   "lat": 32.873914,
+   "lng": -117.100264,
+   "rank": "X",
+   "top": [
+    "Critter Cleaners"
+   ]
+  }
+ ]
+}
