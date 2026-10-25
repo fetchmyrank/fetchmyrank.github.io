@@ -119,7 +119,7 @@ def build(d, out):
     dr.text((36, H - 48), f"Checked {d['date']} · Google Maps results at each spot · Map data © OpenStreetMap contributors",
             font=font(False, 15), fill=MUTED)
     t = "FetchMyRank"
-    dr.text((img.width - 36 - dr.textlength(t, font=font(True, 19)), H - 50), t, font=font(True, 19), fill=INK)
+    dr.text((img.width - 36 - dr.textlength(t, font=font(True, 22)), 40), t, font=font(True, 22), fill=INK)
     os.makedirs(out, exist_ok=True)
     rival = c.most_common(1)[0] if c else ("", 0)
     nums = [rank_num(p["rank"]) for p in pts if rank_num(p["rank"])]
