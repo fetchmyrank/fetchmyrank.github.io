@@ -49,6 +49,9 @@ def color(r):
 
 
 def build(d, out):
+    for p in d["points"]:
+        if isinstance(p.get("top"), str):
+            p["top"] = [t.strip() for t in p["top"].split("|") if t.strip()]
     pts = [p for p in d["points"] if p.get("rank") != "N"]
     xy = [to_px(p["lat"], p["lng"]) for p in d["points"]]
     pad = 55
@@ -118,6 +121,14 @@ def build(d, out):
     t = "FetchMyRank"
     dr.text((img.width - 36 - dr.textlength(t, font=font(True, 19)), H - 50), t, font=font(True, 19), fill=INK)
     os.makedirs(out, exist_ok=True)
+    rival = c.most_common(1)[0] if c else ("", 0)
+    nums = [rank_num(p["rank"]) for p in pts if rank_num(p["rank"])]
+    json.dump({"slug": d["slug"], "business": d["business"], "keyword": d["keyword"], "span": d["span"],
+               "total": len(pts), "top3": top3, "top10": sum(1 for n in nums if n <= 10), "miss": miss,
+               "best": min(nums) if nums else None, "rival": rival[0], "rival_count": rival[1],
+               "rivals": [f"{n} ({k})" for n, k in c.most_common(5)],
+               "page": f"https://fetchmyrank.github.io/{d['slug']}/",
+               "map": f"https://fetchmyrank.github.io/{d['slug']}/map.png"}, open(f"{out}/stats.json", "w"))
     img.save(f"{out}/map.png", optimize=True)
     rows = "".join(
         f"<tr><td>{p['r']+1}-{p['c']+1}</td><td>{html.escape(str(p['rank']) if rank_num(p['rank']) else 'not in top 20')}</td>"
