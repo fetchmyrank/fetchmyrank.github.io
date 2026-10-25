@@ -129,7 +129,7 @@ def build(d, out):
                "rivals": [f"{n} ({k})" for n, k in c.most_common(5)],
                "page": f"https://fetchmyrank.github.io/{d['slug']}/",
                "map": f"https://fetchmyrank.github.io/{d['slug']}/map.png"}, open(f"{out}/stats.json", "w"))
-    img.save(f"{out}/map.png", optimize=True)
+    img.quantize(colors=256, method=Image.MEDIANCUT).save(f"{out}/map.png", optimize=True)
     rows = "".join(
         f"<tr><td>{p['r']+1}-{p['c']+1}</td><td>{html.escape(str(p['rank']) if rank_num(p['rank']) else 'not in top 20')}</td>"
         f"<td>{html.escape(', '.join(p.get('top', [])[:3]))}</td></tr>" for p in pts)
