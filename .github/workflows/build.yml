@@ -2,7 +2,7 @@ name: Build maps
 on:
   push:
     branches: [main]
-    paths: ["data/**", "scripts/**", ".github/workflows/build.yml"]
+    paths: ["data/**", "assets/**", "scripts/**", ".github/workflows/build.yml"]
   workflow_dispatch:
 permissions:
   contents: read

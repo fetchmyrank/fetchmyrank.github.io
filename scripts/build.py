@@ -152,6 +152,9 @@ td,th{{border-bottom:1px solid #ddd;padding:6px;text-align:left}}a{{color:#2b45b
 
 def main():
     os.makedirs("site", exist_ok=True)
+    import shutil
+    if os.path.isdir("assets"):
+        shutil.copytree("assets", "site", dirs_exist_ok=True)
     open("site/index.html", "w").write('<!doctype html><meta charset="utf-8"><meta http-equiv="refresh" content="0;url=https://fetchmyrank.tinypages.co/groomers">')
     open("site/robots.txt", "w").write("User-agent: *\nDisallow: /\n")
     for f in sorted(glob.glob("data/*.json")):
